@@ -1,0 +1,367 @@
+ 
+
+
+    .parent_box{
+    position: relative;
+    border: 2px solid red;
+    width: 502px;
+    height: 502px;
+    margin-top: 30px;
+    margin-left: 200px;
+   }
+
+   
+  .child_box_1{
+     
+
+    width: 0;
+    height: 0;
+    border-left: 136px solid transparent;
+    border-right: 40px solid transparent;
+    border-bottom: 205.5px solid #3498db;
+    transform: rotate(56deg);
+    position: absolute;
+    left: 51px;
+    top: -87px;
+
+
+    display: flex;
+    justify-content:space-between;
+    flex-direction: row-reverse;
+    gap: 2px;
+    flex-wrap: wrap;
+    align-items: center;
+   
+}
+  
+ 
+   .child_box_2{
+   
+    width: 0;
+    height: 0;
+    border-left: 146px solid transparent;
+    border-right: 40px solid transparent;
+    border-bottom: 205.5px solid #dbc634;
+    transform: rotate(324deg);
+    position: absolute;
+    left: -79px;
+    top: 7px;
+
+
+    display: flex;
+    justify-content:space-between;
+    flex-direction: row-reverse;
+    gap: 14px;
+    flex-wrap: wrap;
+    align-items: center;
+   
+
+  }
+   .child_box_3{
+   
+    width: 0;
+    height: 0;
+    border-left: 146px solid transparent;
+    border-right: 40px solid transparent;
+    border-bottom: 205.5px solid #ea868f;
+    transform: rotate(324deg);
+    position: absolute;
+    left: -78px;
+    top: 255px;
+
+    display: flex;
+    justify-content:space-between;
+    flex-direction: row-reverse;
+    gap: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+   
+
+  }
+   .child_box_7{
+   
+    width: 0;
+    height: 0;
+    border-left: 146px solid transparent;
+    border-right: 40px solid transparent;
+    border-bottom: 205.5px solid #806e70;
+    transform: rotate(504deg);
+    position: absolute;
+    left: 392px;
+    top: 34px;
+
+    display: flex;
+    justify-content:space-between;
+    flex-direction: row-reverse;
+    gap: 12px;
+    flex-wrap: wrap;
+    align-items: center;
+   
+
+  }
+
+   .child_box_4{
+   
+    width: 0;
+    height: 0;
+    border-left: 136px solid transparent;
+    border-right: 40px solid transparent;
+    border-bottom: 205.5px solid #3498db;
+    transform: rotate(236deg);
+    position: absolute;
+    left: 23px;
+    top: 381px;
+
+
+    display: flex;
+    justify-content:space-between;
+    flex-direction: row-reverse;
+    gap: 14px;
+    flex-wrap: wrap;
+    align-items: center;
+   
+
+
+  }
+   .child_box_8{
+   
+       width: 0;
+    height: 0;
+    border-left: 136px solid transparent;
+    border-right: 40px solid transparent;
+    border-bottom: 205.5px solid #ae28ba;
+    transform: rotate(56deg);
+    position: absolute;
+    left: 300px;
+    top: -86px;
+
+
+    display: flex;
+    justify-content:space-between;
+    flex-direction: row-reverse;
+    gap: 12px;
+    flex-wrap: wrap;
+    align-items: center;
+   
+
+
+  }
+
+
+  .child_box_5{
+   
+    width: 0;
+    height: 0;
+    border-left: 146px solid transparent;
+    border-right: 40px solid transparent;
+    border-bottom: 205.5px solid #34dbcb;
+    transform: rotate(505deg);
+    position: absolute;
+    left: 391px;
+    top: 281px;
+
+
+
+    display: flex;
+    justify-content:space-between;
+    flex-direction: row-reverse;
+    gap: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+   
+
+  }
+
+
+
+  .child_box_6{
+   
+
+    width: 0;
+    height: 0;
+    border-left: 146px solid transparent;
+    border-right: 40px solid transparent;
+    border-bottom: 205.5px solid #84b2ad;
+    transform: rotate(594deg);
+    position: absolute;
+    left: 268px;
+    top: 381px;
+
+
+    display: flex;
+    justify-content:space-between;
+    flex-direction: row-reverse;
+    gap: 12px;
+    flex-wrap: wrap;
+    align-items: center;
+   
+
+  }
+
+
+   
+   
+ 
+
+  .child_box_9{
+    position: absolute;
+    clip-path: inset(0 2% 0 0);
+    height: 176px;
+    width: 180px;
+    margin-left: px;
+    margin-top: 175px;
+   
+     background-color: red; 
+
+     display: flex;
+     justify-content: center;
+     flex-direction: column;
+     gap: 14px;
+     flex-wrap: wrap;
+     align-items: center;
+    
+  }
+
+  
+  .child_box_10{
+    position: absolute;
+    clip-path: inset(0 2% 0 0);
+    height: 176px;
+    width: 180px;
+    margin-left: 175px;
+    margin-top: 175px;
+    background-color: #ea868f;
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 14px;
+    flex-wrap: wrap;
+    align-items: center;
+   
+  
+    
+  }
+
+  
+  .child_box_11{
+    position: absolute;
+    clip-path: inset(0 2% 0 0);
+    height: 176px;
+    width: 180px;
+    margin-left: 175px;
+   background-color: #3498db;
+
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   gap: 14px;
+   flex-wrap: wrap;
+   align-items: center;
+  
+    
+    
+  }
+
+   
+  .child_box_12{
+    position: absolute;
+    clip-path: inset(0 2% 0 0);
+    height: 176px;
+    width: 180px;
+    background-color: darkmagenta;
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 14px;
+    flex-wrap: wrap;
+    align-items: center;
+   
+    
+  }
+
+  .rotate-box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+   transform: translate(-50%, -50%)  rotate(45deg);
+   width: 353.55px;
+   height: 353.55px;
+    border: 2px solid green;
+  }
+
+
+
+
+  .aries{ position :relative;
+  top: 6rem;
+  left: -1rem;
+  }
+
+
+  .A{position:relative;
+    top: 6rem;
+    left: -1rem;
+  }
+
+
+  .B{position: relative;
+  top: 6rem;
+  left: -1rem;
+  }
+
+
+  .C{position: relative;
+  top: 3rem;
+  left: rem;
+  transform: rotate(120deg);
+  }
+
+
+  .D{position: relative;
+  top: 75px;
+  left: -1rem;
+  transform: rotate(120deg);
+  }
+
+
+  .E{position: relative;
+  top: 5rem;
+  left: -15px;
+  } 
+
+
+   .F{position: relative;
+  top: 4rem;
+  left: -1rem;
+  transform: rotate(300deg);
+  }
+
+
+  .G{position: relative;
+  top: 3rem;
+  /* left: -3rem; */
+  transform: rotate(300deg);
+  } 
+
+
+  .H{
+    /* transform: rotate(-45deg); */
+  }
+
+/* 
+  .I{position: absolute;
+  top: 7rem;
+  left: 3rem;
+  } */
+
+
+  /* .J{position: absolute;
+  top: 7rem;
+  left: 3rem;
+  } */
+
+
+  .K{ 
+  }
