@@ -20,6 +20,8 @@ const Zodiac = ({ name }) => {
       >
         {name}
       </li>
+
+      
     </>
 
   )

@@ -50,6 +50,7 @@ function App() {
         </div>
         <div>
           <Kundalichart />
+          <div className="detail"><h5 ><b ><i >Drop Your number in Red box</i></b></h5></div>
         </div>
 
       </div>
